@@ -61,11 +61,12 @@ password-strength-checker/
 │
 ├── checker.py               # Core logic (strength, breach, generator)
 ├── cli.py                   # Command-line interface
-├── gui.py                   # Tkinter GUI
 ├── wordlists/
 │   └── common_passwords.txt # Blocklist of common passwords
+├── gui.py                   # Tkinter GUI
 ├── requirements.txt
-└── README.md
+├── README.md
+└──sample-cli-output.png
 ```
 
 ---
