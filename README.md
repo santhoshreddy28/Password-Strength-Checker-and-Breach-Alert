@@ -1,5 +1,10 @@
 # 🔐 Password Strength Checker & Breach Alert
 
+## 🚨 Security Impact
+- Detects weak and compromised passwords used in real-world breaches
+- Prevents credential stuffing and account takeover attacks
+- Uses k-anonymity to securely check leaked passwords without exposing them
+
 A Python security tool that analyses password strength using entropy-based scoring, checks passwords against real-world breach databases via the HaveIBeenPwned API, and generates cryptographically strong passwords — all with both a CLI and a Tkinter GUI.
 
 ---
