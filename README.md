@@ -70,7 +70,7 @@ password-strength-checker/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Password-Strength-Checker-and-Breach-Alert.git
+git clone https://github.com/santhoshreddy28/Password-Strength-Checker-and-Breach-Alert.git
 cd Password-Strength-Checker-and-Breach-Alert
 ```
 
